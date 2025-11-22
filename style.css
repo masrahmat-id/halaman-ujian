@@ -5,7 +5,7 @@ body {
     color: #fff;
     /* Background Image/Gradient - menyerupai gambar */
     background: linear-gradient(180deg, rgba(73, 24, 116, 0.8) 0%, rgba(109, 36, 172, 0.8) 100%), 
-                url('https://images.unsplash.com/photo-1549487779-d5c41cc170e9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1920&h=1080&fit=crop&ixid=eyJhcHBfaWQiOjF9') no-repeat center center fixed;
+                url('https://github.com/masrahmat-id/halaman-ujian/raw/main/bg.jpg') no-repeat center center fixed;
     background-size: cover;
     display: flex;
     justify-content: center;
